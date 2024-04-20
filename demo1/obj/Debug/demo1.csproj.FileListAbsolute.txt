@@ -70,3 +70,7 @@ C:\Users\letie\source\repos\demo1\demo1\obj\Debug\demo1.csproj.CoreCompileInputs
 C:\Users\letie\source\repos\demo1\demo1\obj\Debug\demo1.csproj.Up2Date
 C:\Users\letie\source\repos\demo1\demo1\obj\Debug\demo1.dll
 C:\Users\letie\source\repos\demo1\demo1\obj\Debug\demo1.pdb
+C:\Users\letie\source\repos\demo1\demo1\bin\EntityFramework.dll
+C:\Users\letie\source\repos\demo1\demo1\bin\EntityFramework.SqlServer.dll
+C:\Users\letie\source\repos\demo1\demo1\bin\EntityFramework.xml
+C:\Users\letie\source\repos\demo1\demo1\bin\EntityFramework.SqlServer.xml

@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\letie\\source\\repos\\demo1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\views\\shared\\_layoutpage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|c:\\users\\letie\\source\\repos\\demo1\\demo1\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF44E827-91CA-4F53-B518-F42773DEC5B5}|demo1\\demo1.csproj|solutionrelative:demo1\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,12 +59,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "demo1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "demo1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T17:50:28.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "demo1\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "demo1\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T17:42:05.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "demo1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "demo1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:40:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Web.config",
+              "RelativeDocumentMoniker": "demo1\\Web.config",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Web.config",
+              "RelativeToolTip": "demo1\\Web.config",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-20T17:28:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\CompanyDBContext.cs",
+              "RelativeDocumentMoniker": "demo1\\Models\\CompanyDBContext.cs",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\CompanyDBContext.cs",
+              "RelativeToolTip": "demo1\\Models\\CompanyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:20:34.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "demo1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Product.cs",
+              "RelativeToolTip": "demo1\\Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:11:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "demo1\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Category.cs",
+              "RelativeToolTip": "demo1\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:09:18.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "demo1\\Models\\Brand.cs",
               "ToolTip": "C:\\Users\\letie\\source\\repos\\demo1\\demo1\\Models\\Brand.cs",
               "RelativeToolTip": "demo1\\Models\\Brand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-18T17:19:55.41Z",
               "EditorCaption": ""
